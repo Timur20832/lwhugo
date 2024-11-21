@@ -1,0 +1,102 @@
+BasicInfo:
+  FirstName: Timur
+  LastName: Sakhabutdinov
+  Photo: img/ek.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +7 (987) 716 ....
+    - Icon: fas fa-envelope
+      Info: contact@gmail.com
+    - Icon: fas fa-map-marker-alt
+      Info: Russia
+
+Profile: Эрудированный, добрый, пунктуальный человек. Люблю искусство, читаю русскую классику, за любые интерактивы. Легко вливаюсь в компанию, общительный и быстро адаптируемый.
+Experience:
+  - Employer: Репетитор ру
+    Place: Йошкар-Ола, РФ
+    Positions:
+      - Title: Репетитор математики, информатики
+        Date: Сентябрь 2015
+        Details:
+          - Готовил более 500 учеников
+          - 10 учеников сдали ЕГЭ на 80+
+          - Все ученики были с подтянутыми знаниями
+        Badges: ["Высшая математика", "Математика с 1-11 класс", "Информатика"]
+
+  - Employer: Проекты в университете
+    Place: Lisbon, PT
+    Positions:
+      - Title: Flow Cytometry Resource Specialist
+        Date: Jan 2018 - Mar 2019
+        Details:
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        Badges:
+          [
+            "Python",
+            "HTML",
+            "CSS",
+            "C#/Unity",
+            "С++",
+            "Pascal",
+            "Excel",
+            "Word",
+            "SQL",
+          ]
+Education:
+  - Course: Факультет информатики и вычислительной техники, направлние Программная инженерия
+    Place: ПГТУ
+    Date: 2022-2026
+    Details: Специализируюсь на программировании и разработке ПО
+
+References:
+  - Name: Person One
+    Relation: Co-worker at Super Cool Company
+    Contacts:
+      - Icon: fas fa-phone
+        Info: +7 (987) 716 ....
+      - Icon: fas fa-envelope
+        Info: cho-to@gmail.com
+      - Icon: fas fa-map-marker-alt
+        Info: Melbourne, Australia
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - HTML (including Jinja)
+      - Javascript
+      - CSS
+      - SASS
+      - SQL
+      - C#
+      - Bash
+      - MATLAB
+  - Family: Frameworks
+    Items:
+      - Django
+      - Flask
+      - Hugo
+      - React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+  - Family: Misc
+    Items:
+      - Adobe Tools
+
+Languages:
+  - Name: Russia
+    Level: Native
+  - Name: English
+    Level: C2
+
+Interests:
+  - communication
+  - Programming
+  - design
+  - Education
+  - Reading
